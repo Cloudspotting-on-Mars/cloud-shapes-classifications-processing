@@ -1,6 +1,7 @@
 A diagram tells more than thousand of words:
 
-![image](https://github.com/user-attachments/assets/dbeb8aed-7ca9-4590-a22e-b63d4c49a43c)
+![image](https://github.com/user-attachments/assets/3e4809ab-de13-4c0d-bf2f-02fd74fdaa41)
+
 
 
 Preview of clusters on top of images: 
