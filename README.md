@@ -1,6 +1,7 @@
 A diagram tells more than thousand of words:
 
-![image](https://github.com/user-attachments/assets/7c27d7a9-f830-4f73-b8f9-8e5dfe8b3ee9)
+![image](https://github.com/user-attachments/assets/48907877-0e2c-4ed5-96c2-5484ad90c3e1)
+
 
 
 
