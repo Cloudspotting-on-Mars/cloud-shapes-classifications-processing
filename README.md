@@ -6,6 +6,6 @@ A diagram tells more than thousand of words:
 
 
 
-Preview of clusters on top of images: 
+Preview of clusters on top of images (done by PROD_classifications_on_img_1_1_3): 
 ![image](https://github.com/user-attachments/assets/16e52173-050d-4c62-8d93-40ae52a5131e)
 ![image](https://github.com/user-attachments/assets/ada5f797-afc0-456a-a52c-472b3aa143c9)
